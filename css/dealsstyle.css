@@ -1,0 +1,124 @@
+@charset "utf-8";
+html { padding:0; margin:0; }
+a { text-decoration:none; }
+a:hover { text-decoration:underline; }
+.clr { clear: both; font-size; 0; overflow: hidden; height: 0; }
+/* main */
+.main_jadii {  position: absolute; left: 0; right: 0; margin-left: auto; margin-right: auto; width: 1440px; }
+#Rectangle1 {
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  height: 2560px;
+  z-index: 0;
+  width: 1440px;
+}
+
+#Layer4png {
+  position: absolute;
+  left: -1075px;
+  top: -10px;
+  height: 2580px;
+  z-index: 1;
+  width: 4128px;
+}
+
+#Rectangle3 {
+  position: absolute;
+  left: -181px;
+  top: 503px;
+  height: 167px;
+  z-index: 2;
+  width: 1769px;
+}
+
+#Layer5 {
+  position: absolute;
+  left: 526px;
+  top: 50px;
+  height: 392px;
+  z-index: 3;
+  width: 389px;
+}
+
+#Starbucksdeals {
+  position: absolute;
+  left: 477px;
+  top: 569px;
+  height: 56px;
+  z-index: 4;
+  width: 485px;
+}
+
+#VectorSmartObject {
+  position: absolute;
+  left: 196px;
+  top: 1282px;
+  height: 375px;
+  z-index: 5;
+  width: 1016px;
+}
+
+#VectorSmartObject536 {
+  position: absolute;
+  left: 196px;
+  top: 779px;
+  height: 375px;
+  z-index: 6;
+  width: 1016px;
+}
+
+#VectorSmartObject328 {
+  position: absolute;
+  left: 195px;
+  top: 1785px;
+  height: 375px;
+  z-index: 7;
+  width: 1016px;
+}
+
+#Free {
+  position: absolute;
+  left: 635px;
+  top: 1345px;
+  height: 55px;
+  z-index: 8;
+  width: 140px;
+}
+
+#FizzioHandcrafted186 {
+  position: absolute;
+  left: 282px;
+  top: 1462px;
+  height: 57px;
+  z-index: 9;
+  width: 828px;
+}
+
+#_5Off {
+  position: absolute;
+  left: 596px;
+  top: 1843px;
+  height: 60px;
+  z-index: 10;
+  width: 221px;
+}
+
+#EggCheddarBreakfa529 {
+  position: absolute;
+  left: 307px;
+  top: 1946px;
+  height: 143px;
+  z-index: 11;
+  width: 793px;
+}
+
+#_15OffAnypurchase365 {
+  position: absolute;
+  left: 305px;
+  top: 821px;
+  height: 247px;
+  z-index: 12;
+  width: 795px;
+}
+
