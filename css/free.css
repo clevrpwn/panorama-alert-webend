@@ -1,0 +1,178 @@
+@charset "utf-8";
+html { padding:0; margin:0; }
+a { text-decoration:none; }
+a:hover { text-decoration:underline; }
+.clr { clear: both; font-size; 0; overflow: hidden; height: 0; }
+/* main */
+.main_jadii {  position: absolute; left: 0; right: 0; margin-left: auto; margin-right: auto; width: 1440px; }
+#Rectangle1 {
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  height: 2560px;
+  z-index: 0;
+  width: 1440px;
+}
+
+#Layer4png {
+  position: absolute;
+  left: -1075px;
+  top: -10px;
+  height: 2580px;
+  z-index: 1;
+  width: 4128px;
+}
+
+#FreeFizzioHandcra105 {
+  position: absolute;
+  left: 244px;
+  top: 1211px;
+  height: 266px;
+  z-index: 2;
+  width: 953px;
+}
+
+#Scaneithersideatt339 {
+  position: absolute;
+  left: 299px;
+  top: 1555px;
+  height: 84px;
+  z-index: 3;
+  width: 842px;
+}
+
+#Rectangle3 {
+  position: absolute;
+  left: -181px;
+  top: 503px;
+  height: 167px;
+  z-index: 4;
+  width: 1769px;
+}
+
+#Layer5 {
+  position: absolute;
+  left: 526px;
+  top: 50px;
+  height: 392px;
+  z-index: 5;
+  width: 389px;
+}
+
+#Group2copypng {
+  position: absolute;
+  left: 1376px;
+  top: 773px;
+  height: 1386px;
+  z-index: 6;
+  width: 64px;
+}
+
+#Group2copy2png {
+  position: absolute;
+  left: 0px;
+  top: 773px;
+  height: 1386px;
+  z-index: 7;
+  width: 64px;
+}
+
+#Starbucksdeal {
+  position: absolute;
+  left: 456px;
+  top: 541px;
+  height: 98px;
+  z-index: 8;
+  width: 538px;
+}
+
+#Layer4png {
+  position: absolute;
+  left: -1075px;
+  top: -10px;
+  height: 2580px;
+  z-index: 9;
+  width: 4128px;
+}
+
+#FreeFizzioHandcra105 {
+  position: absolute;
+  left: 244px;
+  top: 1211px;
+  height: 266px;
+  z-index: 10;
+  width: 953px;
+}
+
+#Scaneithersideatt339 {
+  position: absolute;
+  left: 299px;
+  top: 1555px;
+  height: 84px;
+  z-index: 11;
+  width: 842px;
+}
+
+#Rectangle3 {
+  position: absolute;
+  left: -181px;
+  top: 503px;
+  height: 167px;
+  z-index: 12;
+  width: 1769px;
+}
+
+#Layer5 {
+  position: absolute;
+  left: 526px;
+  top: 50px;
+  height: 392px;
+  z-index: 13;
+  width: 389px;
+}
+
+#Group2copypng {
+  position: absolute;
+  left: 1376px;
+  top: 773px;
+  height: 1386px;
+  z-index: 14;
+  width: 64px;
+}
+
+#Group2copy2png {
+  position: absolute;
+  left: 0px;
+  top: 773px;
+  height: 1386px;
+  z-index: 15;
+  width: 64px;
+}
+
+#Starbucksdeal {
+  position: absolute;
+  left: 456px;
+  top: 541px;
+  height: 98px;
+  z-index: 16;
+  width: 538px;
+}
+
+#Rectangle2copy {
+  position: absolute;
+  left: 90px;
+  top: 2267px;
+  height: 194px;
+  z-index: 17;
+  width: 1261px;
+}
+
+#DiscoveramazingSt117 {
+  position: absolute;
+  left: 199px;
+  top: 2337px;
+  height: 67px;
+  z-index: 18;
+  width: 1044px;
+}
+

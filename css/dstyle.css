@@ -1,0 +1,88 @@
+@charset "utf-8";
+html { padding:0; margin:0; }
+a { text-decoration:none; }
+a:hover { text-decoration:underline; }
+.clr { clear: both; font-size; 0; overflow: hidden; height: 0; }
+/* main */
+.main_jadii {  position: absolute; left: 0; right: 0; margin-left: auto; margin-right: auto; width: 1440px; }
+#Rectangle1 {
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  height: 2560px;
+  z-index: 0;
+  width: 1440px;
+}
+
+#Layer4png {
+  position: absolute;
+  left: -1075px;
+  top: -10px;
+  height: 2580px;
+  z-index: 1;
+  width: 4128px;
+}
+
+#Rectangle3 {
+  position: absolute;
+  left: -181px;
+  top: 503px;
+  height: 167px;
+  z-index: 2;
+  width: 1769px;
+}
+
+#Layer5 {
+  position: absolute;
+  left: 526px;
+  top: 50px;
+  height: 392px;
+  z-index: 3;
+  width: 389px;
+}
+
+#Starbucksdeals {
+  position: absolute;
+  left: 450px;
+  top: 565px;
+  height: 60px;
+  z-index: 4;
+  width: 540px;
+}
+
+#VectorSmartObject {
+  position: absolute;
+  left: 196px;
+  top: 1282px;
+  height: 375px;
+  z-index: 5;
+  width: 1016px;
+}
+
+#VectorSmartObject170 {
+  position: absolute;
+  left: 196px;
+  top: 779px;
+  height: 375px;
+  z-index: 6;
+  width: 1016px;
+}
+
+#_10OffYournextcoffee {
+  position: absolute;
+  left: 446px;
+  top: 1337px;
+  height: 238px;
+  z-index: 7;
+  width: 522px;
+}
+
+#_15OffAnypurchase254 {
+  position: absolute;
+  left: 305px;
+  top: 821px;
+  height: 247px;
+  z-index: 8;
+  width: 795px;
+}
+
